@@ -1,0 +1,16 @@
+{
+  "name": "extend-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A Webpack helper to extend a given webpack plugin's functionality",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermebruzzi/extend-webpack-plugin"
+  },
+  "author": "Guilherme Heynemann Bruzzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermebruzzi/extend-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/guilhermebruzzi/extend-webpack-plugin"
+}
